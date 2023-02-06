@@ -29,7 +29,7 @@ Chat
  
 
 ## Deploy 
-✅ [Github](Kayqueew.github.io/Chat/)
+✅ [Github](kayqueew.github.io/Chat/)
 
 
 
