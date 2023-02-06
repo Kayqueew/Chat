@@ -29,7 +29,7 @@ Chat
  
 
 ## Deploy 
-✅ [Github](https://fernandogomesfg.github.io/chat-mobile-boraCodar/)
+✅ [Github](Kayqueew.github.io/Chat/)
 
 
 
