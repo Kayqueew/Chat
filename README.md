@@ -25,8 +25,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Chat 
- 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/92122337/218844600-6069ad8c-66d8-4a01-b967-0ac5af031d94.png" width="900">
+    <br>
+</p>
 
 ## Deploy 
 ✅ [Github](kayqueew.github.io/Chat/)
